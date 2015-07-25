@@ -1,0 +1,72 @@
+supplier,reading_type,reading_date,meter_value
+nPower,Customer,2014-12-01,71965
+nPower,Customer,2014-09-29,70993
+nPower,Customer,2014-09-01,70650
+nPower,Customer,2014-08-04,70356
+nPower,Customer,2014-06-02,69642
+nPower,Customer,2014-05-01,69287
+nPower,Customer,2014-04-01,68865
+nPower,nPower read,2014-03-17,68557
+nPower,Customer,2014-03-01,68198
+nPower,Customer,2014-02-01,67458
+nPower,Customer,2014-01-01,66515
+nPower,Customer,2013-11-11,65058
+nPower,Estimated,2013-10-07,64690
+nPower,Customer,2013-08-31,64133
+nPower,nPower read,2013-06-24,63576
+Ovo Energy,Estimated,2013-05-31,63261
+Ovo Energy,Change of tariff,2013-05-19,63032
+Ovo Energy,Change of tariff,2013-05-13,62918
+Ovo Energy,Actual,2013-05-01,62690
+Ovo Energy,Estimated,2013-04-30,62323
+Ovo Energy,Estimated,2013-03-31,61674
+Ovo Energy,Actual,2013-03-13,61207
+Ovo Energy,Estimated,2013-02-28,59529
+Ovo Energy,Estimated,2013-01-31,58967
+Ovo Energy,Estimated,2012-12-31,58326
+Ovo Energy,Estimated,2012-11-30,57665
+Ovo Energy,Estimated,2012-10-31,57063
+Ovo Energy,Estimated,2012-09-30,56535
+Ovo Energy,Customer,2012-09-16,56322
+Ovo Energy,Estimated,2012-08-31,56380
+Ovo Energy,Estimated,2012-07-31,55912
+Ovo Energy,Customer,2012-07-01,55479
+Ovo Energy,Estimated,2012-06-30,55887
+Ovo Energy,Customer,2012-06-01,55151
+Ovo Energy,Estimated,2012-05-31,55470
+Ovo Energy,Change of tariff,2012-05-13,55061
+Ovo Energy,Customer,2012-05-04,54761
+Ovo Energy,Estimated,2012-04-30,54765
+Ovo Energy,Customer,2012-04-01,54038
+Ovo Energy,Estimated,2012-03-31,54046
+Ovo Energy,Actual,2012-03-13,53595
+Ovo Energy,Customer,2012-03-08,53491
+Ovo Energy,Estimated,2012-02-29,53291
+Ovo Energy,Customer,2012-02-07,52753
+Ovo Energy,Estimated,2012-01-31,52164
+Ovo Energy,Customer,2012-01-01,51533
+Ovo Energy,Estimated,2011-12-31,51598
+Ovo Energy,Estimated,2011-11-30,50950
+Ovo Energy,Customer,2011-11-03,50418
+Ovo Energy,Estimated,2011-10-31,50443
+Ovo Energy,Estimated,2011-09-30,49920
+Ovo Energy,Customer,2011-09-13,49664
+Ovo Energy,Estimated,2011-08-31,50234
+Ovo Energy,Estimated,2011-07-31,49690
+Ovo Energy,Estimated,2011-06-30,49170
+Ovo Energy,Estimated,2011-05-31,48668
+Ovo Energy,Change of tariff,2011-05-13,48352
+Ovo Energy,Estimated,2011-04-30,48123
+Ovo Energy,Customer,2011-04-11,47744
+Ovo Energy,Estimated,2011-03-31,46363
+Ovo Energy,Estimated,2011-02-28,45835
+Ovo Energy,Estimated,2011-01-31,45311
+Ovo Energy,Estimated,2010-12-31,44714
+Ovo Energy,Estimated,2010-11-30,44098
+Ovo Energy,Estimated,2010-10-31,43537
+Ovo Energy,Estimated,2010-09-30,43426
+Ovo Energy,Estimated,2010-08-31,42909
+Ovo Energy,Estimated,2010-07-31,42439
+Ovo Energy,Estimated,2010-06-30,41990
+Ovo Energy,Estimated,2010-06-01,41554
+Ovo Energy,Estimated,2010-05-13,41282
