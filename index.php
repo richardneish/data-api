@@ -7,16 +7,26 @@ $app->contentType('application/json');
 $db = new PDO('sqlite:data/database.sqlite');
 
 // Routes
-$app->get('/electricity_meter_reading', function () use ($db, $app) {
-  $sth = $db->query('SELECT * FROM electricity_meter_reading;');
-  echo json_encode($sth->fetchAll(PDO::FETCH_CLASS));
+$resource = 'electricity_meter_reading';
+$app->get("/$resource", function () use ($resource, $db, $app) {
+  $results = getAll($resource, $db);
+  echo json_encode($results);
 });
 
-$app->get('/electricity_meter_reading/:id', function ($id) use ($db, $app) {
-  $sth = $db->prepare('SELECT * FROM electricity_meter_reading WHERE id = ? LIMIT 1;');
-  $sth->execute([intval($id)]);
-  echo json_encode($sth->fetchAll(PDO::FETCH_CLASS)[0]);
+$app->get("/$resource/:id", function ($id) use ($db, $app) {
+  $results = getById($resource, $id, $db);
+  echo json_encode($results);
 });
-
 
 $app->run();
+
+function getAll($resource, $db) {
+  $sth = $db->query("SELECT * FROM $resource;");
+  return $sth->fetchAll(PDO::FETCH_CLASS);
+}
+
+function getById($resource, $id, $db) {
+  $sth = $db->prepare("SELECT * FROM $resource WHERE id = ? LIMIT 1;");
+  $sth->execute([intval($id)]);
+  $sth->fetchAll(PDO::FETCH_CLASS)[0];
+}
