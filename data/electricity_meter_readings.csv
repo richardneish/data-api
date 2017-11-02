@@ -70,11 +70,21 @@ nPower,Customer,2014-08-04,70356
 nPower,Customer,2014-09-01,70650
 nPower,Customer,2014-09-29,70993
 nPower,Customer,2014-12-01,71965
-bulb, Customer, 2017-11-01, 92037
-bulb, Customer, 2017-10-16, 91811
-bulb, Customer, 2017-10-11, 91755
-buld, Customer, 2017-10-01, 91617
-bulb, Estimated, 2017-09-19, 91473
-bulb, Customer, 2017-09-15, 91407
-bulb, Customer, 2017-09-01, 91216
-bulb, Customer, 2017-08-19, 91013
+nPower,Estimated,2016-08-23,84319
+nPower,Customer,2016-10-08,84739
+nPower,Customer,2016-10-09,84739
+nPower,Customer,2016-12-21,86552
+nPower,Customer,2016-12-22,86552
+nPower,Customer,2017-03-25,89104
+nPower,Customer,2017-03-26,89104
+nPower,Customer,2017-06-22,90294
+nPower,Customer,2017-06-23,90294
+nPower,Customer,2017-08-18,91013
+bulb,Customer,2017-08-19,91013
+bulb,Customer,2017-09-01,91216
+bulb,Customer,2017-09-15,91407
+bulb,Estimated,2017-09-19,91473
+buld,Customer,2017-10-01,91617
+bulb,Customer,2017-10-11,91755
+bulb,Customer,2017-10-16,91811
+bulb,Customer,2017-11-01,92037
